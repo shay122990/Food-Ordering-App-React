@@ -1,9 +1,9 @@
-import steakSandwich from "../assets/steakSandwich.jpg"
-import chefsBurger from "../assets/chefsBurger.jpg"
-import californiaRoll from "../assets/californiaRoll.jpg"
-import pumpkinSoup from "../assets/pumpkinSoup.jpg"
-import avacadoChili from "../assets/avacadoChili.jpg"
-import angusSteak from "../assets/angusSteak.jpg"
+import steakSandwich from "../assets/steakSandwich.jpg";
+import chefsBurger from "../assets/chefsBurger.jpg";
+import californiaRoll from "../assets/californiaRoll.jpg";
+import pumpkinSoup from "../assets/pumpkinSoup.jpg";
+import avacadoChili from "../assets/avacadoChili.jpg";
+import angusSteak from "../assets/angusSteak.jpg";
 
 export const MenuList = [
   {
@@ -36,4 +36,4 @@ export const MenuList = [
     image: angusSteak,
     price: 85,
   },
-]
+];

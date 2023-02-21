@@ -1,0 +1,37 @@
+.footer {
+  width: 100%;
+  height: 150px;
+  background-color: #121619;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.socialMedia svg {
+  color: white;
+  margin: 20px;
+  font-size: 60px;
+  cursor: pointer;
+}
+
+.footer p {
+  color: white;
+}
+
+@media only screen and (max-width: 800px) {
+  .footer {
+    height: 100px;
+  }
+  .footer p {
+    text-align: center;
+  }
+  .socialMedia svg {
+    color: white;
+    margin: 20px;
+    font-size: 30px;
+    cursor: pointer;
+  }
+}

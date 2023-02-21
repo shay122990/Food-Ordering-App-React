@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Initial view](public/image1.gif)
+![Initial view](public/preview.gif)
 
 ## Features
 
